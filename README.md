@@ -1,4 +1,4 @@
-Sparse Identification of Nonlinear Dynamics 
+Sparse Identification of Nonlinear Dynamics (SINDy)
 
 1. Lorenz system
 
