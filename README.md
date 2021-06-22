@@ -4,7 +4,7 @@ Sparse Identification of Nonlinear Dynamics (SINDy)
 
     1a. ODE modeling
   
-    1b. Implementing PySINDy for discovery
+    1b. Implementing PySINDy for discovery w/ and w/out noise
   
     1c. Implementing neural network for spatial/temporal simulation
 
@@ -25,3 +25,6 @@ Sparse Identification of Nonlinear Dynamics (SINDy)
     3c. Implementing neural network for spatial/temporal simulation
   
 4. Concluding remarks & analysis
+
+
+This work is guided by the book Data Driven Science and Engineering by Brunton and Kutz.
