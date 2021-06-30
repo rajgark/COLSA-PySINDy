@@ -450,7 +450,7 @@ def TrainSTRidge(R, Ut, lam, d_tol, maxit = 25, STR_iters = 10, l0_penalty = Non
             d_tol  = 2*d_tol / (maxit - iter)
             tol = tol + d_tol
 
-    if print_best_tol: print "Optimal tolerance:", tol_best
+    if print_best_tol: print("Optimal tolerance:", tol_best)
 
     return w_best
 
@@ -591,7 +591,7 @@ def STRidge(X0, y, lam, maxit, tol, normalize = 2, print_results = False):
         # Also make sure we didn't just lose all the coefficients
         if len(new_biginds) == 0:
             if j == 0: 
-                #if print_results: print "Tolerance too high - all coefficients set below tolerance"
+                #if print_results: print("Tolerance too high - all coefficients set below tolerance")
                 return w
             else: break
         biginds = new_biginds
