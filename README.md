@@ -1,28 +1,28 @@
 Sparse Identification of Nonlinear Dynamics (SINDy)
 
-1. Lorenz system
+1. Lorenz System
 
     1a. ODE modeling
   
     1b. Implementing PySINDy for discovery w/ and w/out noise
   
-    1c. Implementing neural network for spatial/temporal simulation
+    1c. Implementing physics informed neural network for spatial/temporal simulation
 
-2. Korteweg - De Vries Equation
+2. Korteweg - De Vries & Burgers Equations
 
     2a. PDE modeling
   
     2b. Implementing PySINDy/PDE-FIND for discovery
   
-    2c. Implementing neural network for spatial/temporal simulation
+    2c. Implementing physics informed neural network for spatial/temporal simulation
   
-3. Arbitrary Dataset
+3. Waves
 
     3a. Modeling
   
-    3b. PySINDy governing equation discovery
+    3b. PySINDy/PDE-FIND governing equation discovery
   
-    3c. Implementing neural network for spatial/temporal simulation
+    3c. Implementing neural network for spatial/temporal simulation - maybe
   
 4. Concluding remarks & analysis
 
