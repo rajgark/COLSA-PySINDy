@@ -1,5 +1,7 @@
 Sparse Identification of Nonlinear Dynamics (SINDy)
 
+'Notebooks' Folder contains the Jupyter Notebooks. 
+
 1. Lorenz System
 
     1a. ODE modeling
