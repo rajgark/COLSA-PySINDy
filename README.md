@@ -1,4 +1,5 @@
-Sparse Identification of Nonlinear Dynamics (SINDy)
+# Sparse Identification of Nonlinear Dynamics (SINDy)
+## Overview
 
 'Notebooks' Folder contains the Jupyter Notebooks. 
 
@@ -26,7 +27,11 @@ Sparse Identification of Nonlinear Dynamics (SINDy)
   
     3c. Implementing neural network for spatial/temporal simulation - maybe
   
-4. Concluding remarks & analysis
+4. Concluding remarks & analysis/presentation
 
 
 This work is guided by the book Data Driven Science and Engineering by Brunton and Kutz.
+
+## Dependencies: 
+matplotlib widget and interactive plots requires Jupyter Lab with nodejs installed. Otherwise, switch to `%matplotlib inline` or `%matplotlib notebook` if using Jupyter Notebook. `inline` will not render animations. nodejs backend is useful. 
+
